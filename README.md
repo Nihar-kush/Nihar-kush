@@ -1,5 +1,5 @@
 # 💫 About Me:
-Nihar Kushwaha: Experienced Full Stack Developer (MERN) with a focus on React.js.<br>Worked at Mindhind and Nutrabay, gaining valuable experience.<br>Proficient in frontend technologies: HTML, CSS, JavaScript, React.js, Next.js, Three.js, SCSS, Tailwind CSS, Styled Components.<br>Backend skills include Node.js, Express.js, MongoDB, and Firebase.<br>Mobile development using React Native.<br>Well-versed in version control with Git, collaboration tools like GitHub, Slack, and Bitbucket, and API testing with Postman.
+Nihar Kushwaha: Experienced Full Stack Developer (MERN) with a focus on React.js.<br>Worked at Mindhind and Nutrabay, gaining valuable experience.<br>Proficient in frontend technologies: HTML, CSS, JavaScript, TypeScript, React.js, Next.js, Three.js, SCSS, Tailwind CSS, Styled Components.<br>Backend skills include Node.js, Express.js, MongoDB, and Firebase.<br>Mobile development using React Native.<br>Well-versed in version control with Git, collaboration tools like GitHub, Slack, and Bitbucket, and API testing with Postman.
 
 
 ## 🌐 Socials:
