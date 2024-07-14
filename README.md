@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nihar Kushwaha</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="Coding" width="400" src="https://stock.adobe.com/in/images/illustration-of-a-geek-at-work/701811242">
 
 # 💫 About Me:
 Hello! I'm Nihar, a passionate and experienced Full Stack Developer specializing in the MERN stack. My career journey has taken me through impactful roles at Mindhind and Nutrabay, where I honed my skills and delivered robust, scalable web applications.
 
 Technical Skills:
 
-Frontend: HTML, CSS, JavaScript, Typescript, React.js, Next.js, Three.js, SCSS, Tailwind CSS, Styled Components
+Frontend: HTML, CSS, JavaScript, Typescript, React.js, Next.js, Three.js, SCSS, Tailwind CSS, Styled Components, Material UI, ANTD
 
 Backend: Node.js, Express.js, MongoDB, Firebase
 
