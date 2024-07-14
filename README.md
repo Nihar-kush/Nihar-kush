@@ -3,7 +3,24 @@
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 # 💫 About Me:
-Nihar Kushwaha: Experienced Full Stack Developer (MERN) with a focus on React.js.<br>Worked at Mindhind and Nutrabay, gaining valuable experience.<br>Proficient in frontend technologies: HTML, CSS, JavaScript, TypeScript, React.js, Next.js, Three.js, SCSS, Tailwind CSS, Styled Components.<br>Backend skills include Node.js, Express.js, MongoDB, and Firebase.<br>Mobile development using React Native.<br>Well-versed in version control with Git, collaboration tools like GitHub, Slack, and Bitbucket, and API testing with Postman.
+Hello! I'm Nihar, a passionate and experienced Full Stack Developer specializing in the MERN stack. My career journey has taken me through impactful roles at Mindhind and Nutrabay, where I honed my skills and delivered robust, scalable web applications.
+
+Technical Skills:
+
+Frontend: HTML, CSS, JavaScript, Typescript, React.js, Next.js, Three.js, SCSS, Tailwind CSS, Styled Components
+
+Backend: Node.js, Express.js, MongoDB, Firebase
+
+Mobile Development: React Native
+
+Tools & Collaboration: Git, GitHub, Slack, Bitbucket, Postman, Agile development 
+
+Professional Highlights:
+Developed and maintained high-performance web applications, ensuring seamless user experiences and robust functionality.
+Expertise in creating responsive and dynamic interfaces using modern frontend technologies and frameworks.
+Skilled in building RESTful APIs and integrating them with frontend applications.
+Proficient in version control and collaboration tools, ensuring smooth project management and team coordination.
+I'm always eager to learn and adapt to new technologies, driven by a passion for continuous improvement. Excited about new opportunities, I aim to leverage my skills and experience to contribute to innovative and impactful projects.
 
 
 ## 🌐 Socials:
