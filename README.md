@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nihar Kushwaha</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://stock.adobe.com/in/images/illustration-of-a-geek-at-work/701811242">
+<img align="right" alt="Coding" width="400" src="https://as1.ftcdn.net/v2/jpg/07/01/81/12/1000_F_701811242_SOcfiaq3TJlYbcSu596Z2RQN0VsAZnmM.jpg">
 
 # 💫 About Me:
 Hello! I'm Nihar, a passionate and experienced Full Stack Developer specializing in the MERN stack. My career journey has taken me through impactful roles at Mindhind and Nutrabay, where I honed my skills and delivered robust, scalable web applications.
